@@ -1,0 +1,15 @@
+{
+  "title": "My Documentation",
+  "url": "https://YOUR_USERNAME.github.io/YOUR_REPO",
+  "src": "docs",
+  "out": "site",
+  "theme": {
+    "name": "default",
+    "defaultMode": "system"
+  },
+  "plugins": {
+    "seo": {
+      "defaultDescription": "Documentation built with docmd."
+    }
+  }
+}
