@@ -1,6 +1,6 @@
 # docmd template
 
-[![Use this template](https://img.shields.io/badge/Using_this_template-GitHub?style=for-the-badge&logo=github&logoSize=auto&label=Deploy%20docmd)](https://github.com/docmd-io/docmd-template/generate)
+[![Use this template](https://img.shields.io/badge/Use_this_template-GitHub?style=for-the-badge&logo=github&logoSize=auto&label=Deploy%20docmd)](https://github.com/docmd-io/docmd-template/generate)
 
 The fastest way to start a documentation site with `docmd`, pre-configured and ready to deploy.
 
